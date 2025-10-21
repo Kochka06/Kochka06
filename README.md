@@ -1,11 +1,11 @@
 # Hi there, I'm Ivan 👋
 
-##I'm a front-end developer
+## I'm a front-end developer
 
 - I love gym
 - I'm learning a new languages
 
-##Languages and tools
+## Languages and tools
 
 1. HTML
 2. CSS
@@ -17,6 +17,6 @@
 8. C++
 9. C#
 
-###Follow me
+### Follow me
 
 
